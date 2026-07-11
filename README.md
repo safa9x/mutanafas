@@ -5,8 +5,6 @@
 Mutanafas is a mobile application designed to support users' psychological comfort and daily well-being through a combination of relaxation techniques and spiritual activities. The application provides a calm and organized environment that helps users build positive habits, practice mindfulness, and track their daily progress.
 
 
-## Features<img width="1080" height="2340" alt="Screenshot_1783804323" src="https://github.com/user-attachments/assets/7e84865c-181c-4772-84d8-a7b12449533d" />
-
 
 * **Daily Worship Checklist**
 
