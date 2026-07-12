@@ -113,14 +113,14 @@ flutter run
 The goal of Mutanafas is to provide a supportive digital space that encourages users to maintain positive daily routines, practice relaxation exercises, and improve their overall sense of comfort and well-being.
 
 ## Screenshots
-<img width="1080" height="2340" alt="Screenshot_1783804290" src="https://github.com/user-attachments/assets/757de7a6-f1b4-4111-90c5-508f1c8f12b2" />
-<img width="1080" height="2340" alt="Screenshot_1783804307" src="https://github.com/user-attachments/assets/59bb6f29-422e-4648-af70-dd7088f1f7e3" />
-<img width="1080" height="2340" alt="Screenshot_1783804295" src="https://github.com/user-attachments/assets/5459d61c-253b-4a20-b71d-b48749f4aeed" />
-<img width="1080" height="2340" alt="Screenshot_1783804323" src="https://github.com/user-attachments/assets/5e71e214-ab0d-475c-93ee-5e2e275fc4d0" />  
-<img width="1080" height="2340" alt="Screenshot_1783804338" src="https://github.com/user-attachments/assets/d0590412-99ae-4891-b183-e06c23a6967d" />
-<img width="1080" height="2340" alt="Screenshot_1783804364" src="https://github.com/user-attachments/assets/405e429c-a6e7-4201-acec-4721794bde1e" />
-<img width="1080" height="2340" alt="Screenshot_1783804353" src="https://github.com/user-attachments/assets/821eaac1-b2d9-43a8-949e-2f0b2d538f5f" />
-<img width="1080" height="2340" alt="Screenshot_1783804346" src="https://github.com/user-attachments/assets/cc683093-f19b-4614-b4fb-70709943e9a3" />
+<img width="250" height="2340" alt="Screenshot_1783804290" src="https://github.com/user-attachments/assets/757de7a6-f1b4-4111-90c5-508f1c8f12b2" />
+<img width="250" height="2340" alt="Screenshot_1783804307" src="https://github.com/user-attachments/assets/59bb6f29-422e-4648-af70-dd7088f1f7e3" />
+<img width="250" height="2340" alt="Screenshot_1783804295" src="https://github.com/user-attachments/assets/5459d61c-253b-4a20-b71d-b48749f4aeed" />
+<img width="250" height="2340" alt="Screenshot_1783804323" src="https://github.com/user-attachments/assets/5e71e214-ab0d-475c-93ee-5e2e275fc4d0" />  
+<img width="250" height="2340" alt="Screenshot_1783804338" src="https://github.com/user-attachments/assets/d0590412-99ae-4891-b183-e06c23a6967d" />
+<img width="250" height="2340" alt="Screenshot_1783804364" src="https://github.com/user-attachments/assets/405e429c-a6e7-4201-acec-4721794bde1e" />
+<img width="250" height="2340" alt="Screenshot_1783804353" src="https://github.com/user-attachments/assets/821eaac1-b2d9-43a8-949e-2f0b2d538f5f" />
+<img width="250" height="2340" alt="Screenshot_1783804346" src="https://github.com/user-attachments/assets/cc683093-f19b-4614-b4fb-70709943e9a3" />
 
 
 
